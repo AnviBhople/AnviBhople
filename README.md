@@ -1,6 +1,6 @@
 ## Hi, I'm Anvi. ✨
 
-Computer Science stdent 
+Computer Science stdent. <br>
 I create frontend pages/sites.
 I like to learn current trends going with the tech.
 
