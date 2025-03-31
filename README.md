@@ -9,9 +9,6 @@ I like to learn current trends going with the tech.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Anvibhople)]
-[![Stack Overflow](https://img.shields.io/badge/stackoverflow.com/users/edit/23438115&logoColor=white)]
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Anvi-Bhople)]
-[![email](mailto:bhopleanvi05@gmail.com)]
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
