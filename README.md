@@ -16,7 +16,6 @@ A 3rd-year Computer Science student focused on building MERN applications and ex
 
 
 ## 📁 Featured Projects
-
 -🔹 **ElectroNova System** — Developed the official website for ElectroNova Systems, a startup on Robotics, AI and STEM education with a modern, responsive UI using React.js and built backend services using Node.js and Express.js to manage dynamic content and support scalability.
 -🔹 **Resume Analyzer** — A machine learning-based application that analyzes resumes, extracts key information and evaluates candidate profiles based on skills, experience and job relevance.
 -🔹 **CalmChakra** — Developed a full-stack wellness platform by implementing secure user authentication using Auth-based login/signup, responsive frontend using React.js and backend services using Node.js and Express.js to manage user data and content delivery.
