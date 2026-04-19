@@ -17,6 +17,8 @@ A 3rd-year Computer Science student focused on building MERN applications and ex
 
 ## 📁 Featured Projects
 
+-  **[AppoinTO](https://github.com/AnviBhople/AppoinTO)** — Engineered a smart, location-based appointment booking ecosystem for healthcare, wellness, and counseling sectors; integrated a dedicated AI-driven triage engine to assist users in symptom assessment and implemented dynamic RESTful services using Node.js and MongoDB to manage real-time provider availability and user-specific medical dashboards.
+
 -  **[ElectroNova System](https://github.com/AnviBhople/ElectroNova-Solutions)** — Developed the official website for ElectroNova Systems, a startup on Robotics, AI and STEM education with a modern, responsive UI using React.js and built backend services using Node.js and Express.js to manage dynamic content and support scalability.
 
 -  **[Resume Analyzer](https://github.com/AnviBhople/resume-analyzer)** — A machine learning-based application that analyzes resumes, extracts key information and evaluates candidate profiles based on skills, experience and job relevance.
